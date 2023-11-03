@@ -1,0 +1,12 @@
+# This dataset is regenerated from Salzmann et al. (2008),,
+# lat: Latitude in deg_N,,
+# lon: Longitude in deg_E,,
+# Anom: mean annual precipitation change in mm/year compared to PI,,
+,,
+lat,lon,Anom
+42,-118,234
+36.35,-76.22,250
+11.06,40.35,308
+26,99.5,-351
+-22,150,898
+-35,150,1482

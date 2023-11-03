@@ -1,0 +1,22 @@
+# site-level precipitation anomalies in mm/day,,,,,,,
+# Data source:,,,,,,,
+"# 	PlioMIP1: Haywood et al. (2013)",,,,,,,
+"# 	PlioMIP2: Haywood et al. (2020)",,,,,,,
+"# 	Proxy data: Salzmann et al. (2008)",,,,,,,
+#Columns:,,,,,,,
+"# 	lat: latitude in deg_N",,,,,,,
+"# 	lon: longitude in deg_E",,,,,,,
+"# 	dp2: PlioMIP2 multi-model means ",,,,,,,
+"# 	dp2std: PlioMIP2 standard deviation ",,,,,,,
+"# 	dp1: PlioMIP1 multi-model means ",,,,,,,
+"# 	dp1std: PlioMIP1 standard deviation ",,,,,,,
+"#	expt: this study",,,,,,,
+"#	anom: proxy",,,,,,,
+,,,,,,,
+lat,lon,dp2,dp2std,dp1,dp1std,expt,anom
+42,-118,0.2308,0.3617,0.5115,0.781,0.343625,0.64109589
+36.35,-76.22,-0.5029,0.292,-0.2011,0.7632,0.207409,0.684931507
+11.06,40.35,0.9007,0.512,0.4962,0.668,0.646261,0.843835616
+26,99.5,0.637,0.9142,-1.6017,2.7342,-0.826506,-0.961643836
+-22,150,0.2036,0.6719,0.0027,0.6517,0.180931,2.460273973
+-35,150,0.1922,0.5995,-0.053,0.5362,0.094004,4.060273973
